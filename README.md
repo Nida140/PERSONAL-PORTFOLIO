@@ -49,3 +49,7 @@ Open the index.html file in any browser to view the website.
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+**OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1c474e06-2e39-4d73-a39a-35cb1d409998)
+
